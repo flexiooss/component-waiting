@@ -1,0 +1,3 @@
+Registry:
+  registered:
+    $list: string
